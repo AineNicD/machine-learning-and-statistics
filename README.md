@@ -4,6 +4,10 @@ GMIT Machine Learning and Statistics Assessment 2021.
 This repository contains two jupyter notebooks for assessment in the module Machine learning and statistics in GMIT HDip Data Analytics. 
 ### 1. [scikit-learn.ipynb](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb) 2. [scipy-stats.ipynb](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb)
 
+These can also be viewed at the following URLS:
+1. https://nbviewer.jupyter.org/github/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb
+2. https://nbviewer.jupyter.org/github/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb
+
 There is also  a [requirements.txt](LINK HERE) file that enables someone to quickly run the notebooks with minimal configuration. 
 
 
@@ -26,6 +30,7 @@ For more click on [Jupyter beginners Guide](https://jupyter-notebook-beginner-gu
 
 # References
 * Ian McLoughlin course material 
+* [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
 * [Scikit-learn.org](https://scikit-learn.org/stable/)
 * [Docs.scipy.org](https://docs.scipy.org/doc/scipy/reference/stats.html)
 * [Jupyter Notebook](https://jupyter.org/)
