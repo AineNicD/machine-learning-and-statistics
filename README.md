@@ -1,6 +1,9 @@
 # machine-learning-and-statistics
 GMIT Machine Learning and Statistics Assessment 2021. 
 
+<div class="alert alert-info">
+  <strong>Note:</strong> This repository is a work in progress for my assessment in machine learning and statistics. </div>
+
 This repository contains two jupyter notebooks for assessment in the module Machine learning and statistics in GMIT HDip Data Analytics. 
 ### 1. [scikit-learn.ipynb](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb) 2. [scipy-stats.ipynb](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb)
 
@@ -8,13 +11,13 @@ These can also be viewed on nbviewer by clicking on the following images:
 1. scikit-learn.ipynb: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb)
 2. scipy-stats.ipynb: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb)
 
-There is also  a [requirements.txt](LINK HERE) file that enables someone to quickly run the notebooks with minimal configuration. 
+There is also a [requirements.txt](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/requirements.txt) file that enables someone to quickly run the notebooks with minimal configuration. 
 
 
 #### [Jupyter Notebook](https://jupyter.org/)
 -is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. It is best installed with [Anaconda](https://www.anaconda.com/). 
 Anaconda simplifies package management and deployment by having the most popular python packages installed on your machine even before you know you will be using them. 
-Jupyter can also be installed separately from its website.
+Jupyter can also be installed separately from its [website](https://jupyter.org/).
 
 ### Launching Jupyter Notebook App
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu or by typing 'Jupyter Notebook' in a terminal.
@@ -25,7 +28,7 @@ The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook ico
 - Jupyter notebook should appear in your default browser 
 - Go to the file location where you saved the .ipynb
 - Open file.
-For more click on [Jupyter beginners Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
+For more help click [Jupyter beginners Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
 
 
 # References
