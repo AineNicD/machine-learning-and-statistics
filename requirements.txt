@@ -1,5 +1,5 @@
 numpy
 matplotlib
 sklearn
-scipy.stats
-
+scipy
+pandas
