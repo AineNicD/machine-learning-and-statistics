@@ -1,10 +1,6 @@
 # machine-learning-and-statistics
 GMIT Machine Learning and Statistics Assessment 2021. 
 
-
-
-This repository is a work in progress for my assessment in machine learning and statistics.
-
 This repository contains two jupyter notebooks for assessment in the module Machine learning and statistics in GMIT HDip Data Analytics. 
 ### 1. [scikit-learn.ipynb](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb) 2. [scipy-stats.ipynb](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb)
 
@@ -13,8 +9,8 @@ The notebooks can also be viewed in static form by clicking on the following ima
 2. scipy-stats.ipynb: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb)
 
 You can view the notebooks in dynamic form by clicking on the following images: 
-1. scikit-learn.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb/HEAD?filepath=scikit-learn.ipynb)
-2. scipy-stats.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb/HEAD?filepath=scipy-stats.ipynb)
+1. scikit-learn.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.turing.ac.uk/user/ainenicd-machin--and-statistics-exbuvcmy/lab/tree/scikit-learn.ipynb)
+2. scipy-stats.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.turing.ac.uk/user/ainenicd-machin--and-statistics-exbuvcmy/lab/workspaces/auto-b/tree/scipy-stats.ipynb)
 
 There is also  a [requirements.txt](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/requirements.txt) file that enables someone to quickly run the notebooks with minimal configuration. 
 
