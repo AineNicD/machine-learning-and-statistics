@@ -1,8 +1,8 @@
-numpy
-matplotlib
-sklearn
-scipy
-pandas
-seaborn
-researchpy
-statsmodels
+numpy==1.20.1
+matplotlib==3.3.4
+sklearn==0.24.1
+scipy==1.6.2
+pandas==1.2.4
+seaborn==0.11.1
+researchpy==0.3.2
+statsmodels==0.12.2
