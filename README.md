@@ -1,6 +1,9 @@
 # machine-learning-and-statistics
 GMIT Machine Learning and Statistics Assessment 2021. 
 
+![image](images/Machine.learning.jpg) 
+[image source](https://verify.wiki/wiki/File:Machine.learning.jpg)
+
 This repository contains two jupyter notebooks for assessment in the module Machine learning and statistics in GMIT HDip Data Analytics. 
 ### 1. [scikit-learn.ipynb](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb) 
 ~~~
