@@ -4,7 +4,6 @@ jupyter_core==4.7.1
 jupyterlab==3.0.14
 notebook==6.3.0
 matplotlib==3.3.4
-mpl_toolkits
 numpy==1.20.1
 pandas==1.2.4
 scipy==1.6.2
