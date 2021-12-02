@@ -1,11 +1,11 @@
 # machine-learning-and-statistics
-GMIT Machine Learning and Statistics Assessment 2021. 
+Aine Nic Dhonnacha's GMIT Machine Learning and Statistics Assessment 2021. 
 
 ![image](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/images/Machine.learning.jpg) 
 [image source](https://verify.wiki/wiki/File:Machine.learning.jpg)
 
 This repository contains two jupyter notebooks written in [python](https://www.python.org/) programming language for assessment in the module Machine learning and statistics in GMIT HDip Data Analytics. 
-### 1. [scikit-learn.ipynb](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb) 
+## 1. [scikit-learn.ipynb](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb) 
 ~~~
 Scikit-Learn Jupyter Notebook contains the following.
 - A clear and concise overview of the scikit-learn Python library.
@@ -13,9 +13,14 @@ Scikit-Learn Jupyter Notebook contains the following.
 - Appropriate plots and other visualisations to enhance the notebook for viewers.
 (Ian Mc loughlin course material)
 ~~~ 
+ <details><summary>click here for more about scikit-learn.ipynb</summary>
+<p>
+ Will be adding more detail here when reviewing the notebook
+ </p>
+</details>
 
 
-### 2. [scipy-stats.ipynb](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb)
+## 2. [scipy-stats.ipynb](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb)
 ~~~
 Scipy Stats Jupyter Notebook contains the following.
 - A clear and concise overview of the scipy.stats Python library.
@@ -25,37 +30,63 @@ met, and then performed and displayed the results of ANOVA using scipy.stats.
 - Appropriate plots and other visualisations to enhance the notebook for viewers.
 (Ian Mc loughlin course material)
 ~~~ 
- 
+ <details><summary>click here for more about scipy-stats.ipynb</summary>
+<p>
+  Will be adding more detail here when reviewing the notebook
+
+ </p>
+</details>
+
+# Nbviewer
 
 The notebooks can be viewed in static form on [Nbviewer](https://nbviewer.org/) by clicking on the following images:
 1. scikit-learn.ipynb: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb)
 2. scipy-stats.ipynb: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb)
-<br>
-Nbviewer is a web application that lets you enter the URL of a Jupyter Notebook file, renders that notebook as a static HTML web page, and gives you a stable link to that page which you can share with others. There is also an option to download the notebook in the top right corner. 
+ 
 <br>
 
+<details><summary>click here for more about Nbviewer</summary>
+<p>
+Nbviewer is a web application that lets you enter the URL of a Jupyter Notebook file, renders that notebook as a static HTML web page, and gives you a stable link to that page which you can share with others. There is also an option to download the notebook in the top right corner. 
+ 
+ 
 ![image](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/images/nbviewerDownload.png)
 
 <br>
-
+ 
+ </p>
+</details>
+ 
+ <br>
+ 
+ # Binder
 You can view the notebooks in dynamic form using [Binder](https://mybinder.org/) by clicking on the following image:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AineNicD/machine-learning-and-statistics/HEAD)
 
+<details><summary>click here for more about Binder</summary>
+<p>
+ Binder is an open-source service for making GitHub repositorys interactive. With the click of a button, users get a virtual compute environment where they can run your code and reproduce your results. It's also a great way to test whether you've defined all the dependencies for your project.  
 
-Binder is a tool that lets other people easily launch an interactive copy of your Jupyter notebooks.
+  </p>
+</details>
+
 <br>
 
-There is also a [requirements.txt](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/requirements.txt) file that enables someone to quickly run the notebooks with minimal configuration. 
+# requirements.txt
+
+There is also a [requirements.txt](https://github.com/AineNicD/machine-learning-and-statistics/blob/main/requirements.txt) file that enables someone to quickly run the notebooks with minimal configuration. requirements.txt files are used for specifying what python packages are required to run the project you are looking at.
 
 
-### Install
+# Install
 - [Jupyter Notebook](https://jupyter.org/) -is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. It is best installed with [Anaconda](https://www.anaconda.com/). Jupyter can also be installed separately from its [website](https://jupyter.org/).
 - [Anaconda](https://www.anaconda.com/) simplifies package management and deployment by having the most popular python packages installed on your machine even before you know you will be using them. 
 
+<br>
 
-### Launching Jupyter Notebook App
+## Launching Jupyter Notebook App
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu or by typing 'Jupyter Notebook' in a terminal.
-### How do run/save a jupyter notebook
+
+## How do run/save a jupyter notebook
 - First click on Raw.
 - Then, press ctrl+s to save it as a .ipynb file (files from GitHub are saved as text files as default, so you'll have to manually type '. ipynb' after the file name to make this work.)
 - Open up a terminal and type in Jupyter Notebook
@@ -64,7 +95,10 @@ The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook ico
 - Open file.
 For more help click [Jupyter beginners Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
 
-### You can also download this repository:
+## Downloading repository
+<details><summary>click here for more about downloading this repository</summary>
+<p>
+ <b> You can also download this repository: </b>
 
 Click on the green code button at the top right, go to "Clone or download" drop down menu and copy below url:
 https://github.com/AineNicD/machine-learning-and-statistics.git
@@ -77,7 +111,7 @@ https://github.com/AineNicD/machine-learning-and-statistics.git
 It can also be downloaded as a zip folder. 
  
 
-### How to execute the notebook
+ <b> How to execute the notebook </b>>
  - Launch the Jupyter Notebook App.
  - In the Notebook Dashboard navigate to find the notebook: clicking on its name will open it in a new browser tab.
  - Click on the menu Help -> User Interface Tour for an overview of the Jupyter Notebook App user interface.
@@ -91,6 +125,19 @@ Note: Modifications to the notebooks are automatically saved every few minutes. 
  
 For more information on how to use Jupyter notebook visit: [jupyter-notebook-beginner-guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app)
 
+   </p>
+</details>
+
+<br>
+
+# Credits 
+
+* Ian McLoughlin course matieral, lecture videos and detailed jupyter notebooks helped me to understand scikit.learn machine learning algorithms and scipy.stats Anova implementation which had a great influence on putting together these notebooks for my project. 
+* [Tutorials point](https://www.tutorialspoint.com/index.htm) has a detailed overview of both [scikit-learn](https://www.tutorialspoint.com/scikit_learn/index.htm) and [scipy-stats](https://www.tutorialspoint.com/scipy/scipy_stats.htm) , it was a good point of reference on all the libraries have to offer and helped me gain a high-level understanding of them. 
+* Jacob T VanderPlas, has written many books on python data science and has made these books available free to everyone on github, these guides are fantastic and I found	"Python data science handbook" O'Reilly particularly helpful in my learning. It is available at [Vanderplas's github repository](https://jakevdp.github.io/PythonDataScienceHandbook/). He is currently a software engineer at Google Research in Seattle, and developer on a number of open source Python projects.
+* [Medium](https://medium.com/) is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic. Some blog posts are free but I subscribed for 5euro a month to access more detailed articles explaining topics such as Ken Hoffman's
+[ "Hypothesis Testing — Analysis of Variance (ANOVA)"](https://medium.com/analytics-vidhya/hypothesis-testing-analysis-of-variance-anova-52c3df0fbc80) 
+   
 
 
 # References
@@ -102,6 +149,5 @@ For more information on how to use Jupyter notebook visit: [jupyter-notebook-beg
 * [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
 * [nb viewer badge](https://github.com/jupyter/nbviewer/issues/714)
 * [https://mybinder.org/](https://mybinder.org/)
+* [Binder documentation](https://mybinder.readthedocs.io/en/latest/introduction.html)
 * [jupyter-notebook-beginner-guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app)
-
-
