@@ -140,12 +140,12 @@ For more information on how to use Jupyter notebook visit: [jupyter-notebook-beg
 
 # References
 * Ian McLoughlin course material 
-* [Scikit-learn.org](https://scikit-learn.org/stable/)
-* [Docs.scipy.org](https://docs.scipy.org/doc/scipy/reference/stats.html)
-* [Jupyter Notebook](https://jupyter.org/)
-* [Anaconda](https://www.anaconda.com/)
-* [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
-* [nb viewer badge](https://github.com/jupyter/nbviewer/issues/714)
-* [https://mybinder.org/](https://mybinder.org/)
-* [Binder documentation](https://mybinder.readthedocs.io/en/latest/introduction.html)
-* [jupyter-notebook-beginner-guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app)
+* scikit-learn: machine learning in Python — scikit-learn 1.0.2 documentation, available at:  [Scikit-learn.org](https://scikit-learn.org/stable/)
+* Statistical functions (scipy.stats) — SciPy v1.7.1 Manual, available at: [Docs.scipy.org](https://docs.scipy.org/doc/scipy/reference/stats.html)
+* Project Jupyter, available at:  [Jupyter Notebook](https://jupyter.org/)
+* Anaconda | The World's Most Popular Data Science Platform, available at:  [Anaconda](https://www.anaconda.com/)
+* Nb viewer, available at:  [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
+* Github, " nbviewer badge? · Issue #714 · jupyter/nbviewer", available at: [nb viewer badge](https://github.com/jupyter/nbviewer/issues/714)
+* Binder, available at: [https://mybinder.org/](https://mybinder.org/)
+* Get started with Binder — Binder 0.1b documentation, available at: [Mybinder.readthedocs.io](https://mybinder.readthedocs.io/en/latest/introduction.html)
+* What is the Jupyter Notebook? — Jupyter/IPython Notebook Quick Start Guide 0.1 documentation, available at: [jupyter-notebook-beginner-guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app)
