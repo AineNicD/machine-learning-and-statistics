@@ -11,4 +11,4 @@ sklearn
 statsmodels==0.12.2
 seaborn==0.11.1
 researchpy
-pylab
+
