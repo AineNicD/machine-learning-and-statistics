@@ -14,8 +14,9 @@ Scikit-Learn Jupyter Notebook contains the following.
 (Ian Mc loughlin course material)
 ~~~ 
  <details><summary>click here for more about scikit-learn.ipynb</summary>
+ ***
 <p>
- Will be adding more detail here when reviewing the notebook
+ scikit-learn notebook begins with an overview of the scikit-learn python library. I go into greater detail about types of machine learning and the classes available within the package that assist this. For the library overview, I explain supervised learning, classification, regression, unsupervised learning, clustering, dimensionality reduction, Model selection, preprocessing and sklearn data sets available within the scikit-learn python package. I examine three scikit-learn algorithms in more detail - Support vector machines, k-means and Guassian Naive Bayes. I have plots and images throughout the notebook to enhance it for viewers. Followed by concluding thoughts about the scikit-learn python library. 
  </p>
 </details>
 
@@ -31,8 +32,10 @@ met, and then performed and displayed the results of ANOVA using scipy.stats.
 (Ian Mc loughlin course material)
 ~~~ 
  <details><summary>click here for more about scipy-stats.ipynb</summary>
+ ***
+ 
 <p>
-  Will be adding more detail here when reviewing the notebook
+Scipy.stats notebook begins with an overview of the scipy.stats python library; with detailed descriptions of probability distributions and scipy.stats implementations. I have examples of descriptive statisitcs available within the package. Next I explain Avova to the best of my understanding, perform one-way-anova on a sample dataset `difficile.csv`, a ficticious dataset created for examples by open source data. Following this I perform two-way-anova on a dataset. I follow and explain the assumptions of Avova using scipy.stats with extra help from a seperate statistical function python package statsmodels to highlight the results of the hypothesis. I have plots and images throughout the notebook to enhance it for viewers. Followed by concluding thoughts about the scipy.stats python library. 
 
  </p>
 </details>
@@ -131,7 +134,9 @@ For more information on how to use Jupyter notebook visit: [jupyter-notebook-beg
 
 # Credits 
 
-* Ian McLoughlin course matieral, lecture videos and detailed jupyter notebooks helped me to understand scikit.learn machine learning algorithms and scipy.stats Anova implementation which had a great influence on putting together these notebooks for my project. 
+* Ian McLoughlin course matieral, lecture videos and detailed jupyter notebooks helped me to understand scikit-learn machine learning algorithms and scipy.stats Anova implementation which had a great influence on putting together these notebooks for my project. 
+* scikit-learn documentation, available at: [Scikit-learn.org](	https://scikit-learn.org/stable/) was essential for the scikit-learn notebook. It provides detailed explanations of what the python library has to offer which helped me understand and come up with my own overview of the scikit-learn python library for my notebook. 
+* Statistical functions (scipy.stats) documentation, available at: [Docs.scipy.org](	https://docs.scipy.org/doc/scipy/reference/stats.html), has detailed explanations of the statistical functions available within the scipy.stats python library which helped me understand and create my own overview for my notebook. 
 * [Tutorials point](https://www.tutorialspoint.com/index.htm) has a detailed overview of both [scikit-learn](https://www.tutorialspoint.com/scikit_learn/index.htm) and [scipy-stats](https://www.tutorialspoint.com/scipy/scipy_stats.htm) , it was a good point of reference on all the libraries have to offer and helped me gain a high-level understanding of them. 
 * Jacob T VanderPlas, has written many books on python data science and has made these books available free to everyone on github, these guides are fantastic and I found	"Python data science handbook" O'Reilly particularly helpful in my learning. It is available at [Vanderplas's github repository](https://jakevdp.github.io/PythonDataScienceHandbook/). He is currently a software engineer at Google Research in Seattle, and developer on a number of open source Python projects.
 * [Medium](https://medium.com/) is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic. Some blog posts are free but I subscribed for 5euro a month to access more detailed articles explaining topics such as Lorraine Li's "K-Means Clustering with scikit-learn" post on [towardsdatascience.com](https://towardsdatascience.com/k-means-clustering-with-scikit-learn-6b47a369a83c). Towards data science is A Medium publication that provides a platform for thousands of people to exchange ideas and code to expand our understanding of data science. 
