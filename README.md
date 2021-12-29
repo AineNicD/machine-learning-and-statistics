@@ -37,8 +37,7 @@ met, and then performed and displayed the results of ANOVA using scipy.stats.
  </p>
 </details>
 
-# Nbviewer
-
+# Nbviewer (Nb viewer is currently showing an older version of the notebooks, I am working on fixing this) 
 The notebooks can be viewed in static form on [Nbviewer](https://nbviewer.org/) by clicking on the following images:
 1. scikit-learn.ipynb: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb)
 2. scipy-stats.ipynb: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb)
