@@ -40,7 +40,7 @@ Scipy.stats notebook begins with an overview of the scipy.stats python library; 
  </p>
 </details>
 
-# Nbviewer (Nb viewer is currently showing an older version of the notebooks, I am working on fixing this) 
+# Nbviewer 
 The notebooks can be viewed in static form on [Nbviewer](https://nbviewer.org/) by clicking on the following images:
 1. scikit-learn.ipynb: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/AineNicD/machine-learning-and-statistics/blob/main/scikit-learn.ipynb)
 2. scipy-stats.ipynb: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/AineNicD/machine-learning-and-statistics/blob/main/scipy-stats.ipynb)
@@ -134,7 +134,7 @@ For more information on how to use Jupyter notebook visit: [jupyter-notebook-beg
 
 # Credits 
 
-* Ian McLoughlin course matieral, lecture videos and detailed jupyter notebooks helped me to understand scikit-learn machine learning algorithms and scipy.stats Anova implementation which had a great influence on putting together these notebooks for my project. 
+* Ian McLoughlin course material, lecture videos and detailed jupyter notebooks helped me to understand scikit-learn machine learning algorithms and scipy.stats Anova implementation which had a great influence on putting together these notebooks for my project. 
 * scikit-learn documentation, available at: [Scikit-learn.org](	https://scikit-learn.org/stable/) was essential for the scikit-learn notebook. It provides detailed explanations of what the python library has to offer which helped me understand and come up with my own overview of the scikit-learn python library for my notebook. 
 * Statistical functions (scipy.stats) documentation, available at: [Docs.scipy.org](	https://docs.scipy.org/doc/scipy/reference/stats.html), has detailed explanations of the statistical functions available within the scipy.stats python library which helped me understand and create my own overview for my notebook. 
 * [Tutorials point](https://www.tutorialspoint.com/index.htm) has a detailed overview of both [scikit-learn](https://www.tutorialspoint.com/scikit_learn/index.htm) and [scipy-stats](https://www.tutorialspoint.com/scipy/scipy_stats.htm) , it was a good point of reference on all the libraries have to offer and helped me gain a high-level understanding of them. 
